@@ -1,0 +1,270 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-939-636
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 103-939-636
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:45:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:45:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:45:39] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:50:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:50:42] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:51:27] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:52:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:53:04] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:53:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:53:22] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:53:54] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:54:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:54:56] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:55:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:55:56] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:56:53] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 22:57:32] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:16:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:16:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:17:55] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\rites\\OneDrive\\Desktop\\self study\\DEMON\\python.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:24:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:24:16] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:24:16] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:24:18] "[33mGET /appointment.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:45] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:46] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:48] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:48] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:49] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:49] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:50] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:50] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:50] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:50] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:51] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:51] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:52] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:52] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:53] "[33mGET /appointment.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:27:54] "[33mGET /appointment.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:28:00] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:28:00] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:28:23] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:28:23] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:28:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:28:41] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:28:59] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:28:59] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:29:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:43:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:43:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:43:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:48:01] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 23:48:01] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:10] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:10] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:12] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:12] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:13] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:13] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:24] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:24] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:38] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:46:39] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:47:07] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:47:07] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:47:28] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:47:28] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:47:46] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:47:46] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:47:48] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:47:48] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:48:43] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:48:43] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:48:48] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [04/Dec/2023 14:48:48] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug: * Detected change in 'c:\\Users\\rites\\OneDrive\\Desktop\\self study\\DEMON\\python.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug: * Detected change in 'c:\\Users\\rites\\OneDrive\\Desktop\\self study\\DEMON\\python.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug: * Detected change in 'c:\\Users\\rites\\OneDrive\\Desktop\\self study\\DEMON\\python.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 10:05:41] "GET /contactus HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 10:05:41] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 10:08:13] "GET /contactus HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 10:08:13] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\rites\\OneDrive\\Desktop\\self study\\DEMON\\python.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 495-178-825
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:42] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:42] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:50] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:50] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:59] "GET /contactus HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Dec/2023 14:47:59] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-206-521
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:07:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:07:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:07:51] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:07:51] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:07:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:07:59] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:07:59] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:08:20] "GET /contactus HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 10:08:20] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 11:47:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 11:47:29] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 11:47:29] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 11:47:34] "GET /contactus HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 11:47:34] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:17:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:18:25] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:18:47] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:18:47] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:19:03] "GET /contactus HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:19:03] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:25:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:26:02] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:46:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:47:32] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:47:32] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:47:50] "GET /contactus HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:47:50] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:48:42] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Dec/2023 12:48:42] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-206-521
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 22:42:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 22:42:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 22:42:33] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 22:42:33] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 22:42:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 22:43:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 196-206-521
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:31:38] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:31:39] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:32:19] "[33mGET /appointment HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:33:16] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:33:55] "[33mGET /image.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:33:59] "GET /faculty HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:33:59] "[33mGET /styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:35:12] "GET /contactus HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Dec/2023 23:35:12] "[33mGET /styles.css HTTP/1.1[0m" 404 -
